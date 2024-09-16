@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">As melhores chuteiras</a>
+        <a href="contact.html">Contato</a>
+    </div>
+    <h1>Bem-vindo a pagina inicial</h1>
+    <p>Neste site eu vou falar sobre chuteiras da nike.</p>
+    <h2>Abaixo vai ter a primeira chuteira feita pela nike.</h2>
+    <img src="c:\Users\Estudante\Downloads\the-nike-1971-black-white-dc9964-010-release-date-003.jpeg" width="1000" height="600" alt="chuteira">
+</body>
+</html>
